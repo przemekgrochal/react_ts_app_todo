@@ -1,0 +1,8 @@
+.App {
+    text-align: center;
+}
+
+.row {
+    align-items: center;
+    border-bottom: 1px solid lightgrey;
+}
